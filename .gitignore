@@ -106,4 +106,3 @@ spark-warehouse/
 
 # For Gradle
 .gradle/
-.gradle/*
