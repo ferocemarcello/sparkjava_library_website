@@ -103,3 +103,6 @@ spark-warehouse/
 
 # For SBT
 .jvmopts
+
+# For Gradle
+.gradle
